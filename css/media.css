@@ -1,0 +1,14 @@
+@media (max-width: 1400px) {
+  .container {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  .bottom_container {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  .sec1_container {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
